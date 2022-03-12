@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 #include <cctype>
-using namespace std;
+using namespace std;  // 재풀이
 
 int numIdx(const string& str){
     for (int i=0; i<str.size(); i++){
